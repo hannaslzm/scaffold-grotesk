@@ -1,8 +1,10 @@
 **Copyright © Scaffold\* Journal**
+
 **Designed by Hanna Salzman in Toronto**
 
-**scaffoldjournal.com
-hanna@scaffoldjournal.com**
+**scaffoldjournal.com**
+
+**hanna@scaffoldjournal.com**
 
 Scaffold* Journal and Scaffold* Grotesk are reserved names and are not
 allowed to be modified in relation to this project. Additional author
