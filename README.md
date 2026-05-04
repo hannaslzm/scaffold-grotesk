@@ -1,4 +1,4 @@
-![scaffold](/documentation/images/scaffold.png)
+![scaffold](/scaffold.png)
 
 **Designed for Scaffold\*, the peer-reviewed research journal at the John H. Daniels Faculty of Architecture, Landscape, and Design at the University of Toronto, this project is a testament to the importance of derivative work.**
 
