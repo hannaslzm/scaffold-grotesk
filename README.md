@@ -5,7 +5,7 @@
 Scaffold* Grotesk simultaneously draws on influences from the past and is an amalgam of what came before it. It builds directly off of Rag, an open-source typeface by Dennis Grauel, which, in turn, builds directly off of Arial, which builds on many typefaces before it. [Read more about Scaffold* Grotesk on scaffoldjournal.com](https://scaffoldjournal.com/scaffold-grotesk).
 
 # Download
-The [current version](https://download.tld) is timestamped **Scaffold\* Grotesk 050326** after being updated on 3 May 2026.
+The [current version](/fonts/Scaffold*%20Grotesk%20050326) is timestamped **Scaffold\* Grotesk 050326** after being updated on 3 May 2026.
 
 *Note: This GitHub repo was created retroactively on 4 May 2026.*
 
