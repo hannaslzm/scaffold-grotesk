@@ -2,14 +2,14 @@
 
 **Designed by Hanna Salzman in Toronto**
 
-**scaffoldjournal.com**
+**https://scaffoldjournal.com**
 
 **hanna@scaffoldjournal.com**
 
 Scaffold* Journal and Scaffold* Grotesk are reserved names and are not
-allowed to be modified in relation to this project. Additional author
-credit to Dennis Grauel's project, _Rag_, for serving as the basis of
-this font. More design information at scaffoldjournal.com/scaffold-grotesk.
+allowed to be modified in relation to this project. Additional author credit
+to Dennis Grauel's project, _Rag_, for serving as the basis of this font.
+More design information at https://scaffoldjournal.com/scaffold-grotesk.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
